@@ -1,2 +1,3 @@
 # nvim-config
-My Neovim configuration, written in Lua
+
+This is a repository for storing my Neovim configuration files.
